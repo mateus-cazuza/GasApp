@@ -14,8 +14,19 @@
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/1b577a07dda843aba09f4bc55d1af8fc.svg">
   </a>
 </p>
--Ola
+
+## :rocket: Fucnionalidades Básicas
+
+App para realizar pedidos de Gás para empresa Cobinha Gás (Revendedora da Nacional Gás)
+
+- Cadastro de Clientes (Gif 1)
+- Adicionar Endereços
+- Listar Endereços (Gif 2)
+- Pedir Gás (Gif 3)
+- Listar Pedidos
+
 <p align="center">    
+    <img width="300" lt="Codacy grade" src="https://user-images.githubusercontent.com/39800209/81312385-f761e380-905c-11ea-8d67-eaac05e12fd4.gif">
   <img width="300" lt="Codacy grade" src="https://user-images.githubusercontent.com/39800209/81308111-cd59f280-9057-11ea-802d-c77c66634af7.gif">
   <img width="300" lt="Codacy grade" src="https://user-images.githubusercontent.com/39800209/81310280-478b7680-905a-11ea-8721-b6cd0a9f9af7.gif">
-</p>
+</p> 
