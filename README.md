@@ -14,7 +14,10 @@
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/1b577a07dda843aba09f4bc55d1af8fc.svg">
   </a>
 </p>
+
+
 > 💔Infelizmente o código deste App está privado.
+
 
 ## :rocket: Fucnionalidades Básicas
 
